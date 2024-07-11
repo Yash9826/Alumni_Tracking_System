@@ -1,17 +1,17 @@
 Alumni Tracking System
 
-INTRODUCTION
+INTRODUCTION :-
 the Alumni Tracking System, Alumni Track, is an innovative solution that seeks to strengthen alumni relationships, empower students, and bolster the reputation of educational institutions. 
 The system will facilitate a rich and interactive alumni experience, where alumni can create, maintain, and access their profiles, engage in events, and connect with fellow graduates.
 
 
-TECHNOLOGY
+TECHNOLOGY :- 
 Backend: Java Servlet JavaServer Pages (JSP)
 Frontend: HTML CSS Bootstrap
 Database: MySQL
 
 
-DESCRIPTION
+DESCRIPTION :-
 The system has three major actors and each actor has its features to carry out as follows:
 Admin
 Admin is the person who controls, monitors and keeps the whole follow of the system. The main functions of the Admin are:
