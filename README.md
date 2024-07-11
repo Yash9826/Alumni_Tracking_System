@@ -1,4 +1,4 @@
-Alumni Tracking System
+# Alumni Tracking System
 
 INTRODUCTION :-
 the Alumni Tracking System, Alumni Track, is an innovative solution that seeks to strengthen alumni relationships, empower students, and bolster the reputation of educational institutions. 
